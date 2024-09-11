@@ -1,2 +1,3 @@
 # metadata-prediction-v1
-Forked from Lin-Tsing/FarmGTEx-metadata-prediction
+
+This pipeline was used to find out the mislabeled samples and predict the metadata (such as sex, developmental stage, tissue, and so on) in FarmGTEx
